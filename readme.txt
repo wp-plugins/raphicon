@@ -1,5 +1,6 @@
 === Plugin Name ===
 Contributors: rahendz
+Donate link: http://example.com/
 Tags: icons, tinymce, ajax, bootstrap, twitter, twitter bootstrap, glyphicons, visual editor, dahsicons, wordpress
 Requires at least: 3.0.1
 Tested up to: 3.9
@@ -47,7 +48,7 @@ Since this loads the necessary fonts and css for the Glyphicon / Dashicons you m
 1. Go to the visual editor for any page or post and use the "RAphicon" dropdown button.
 
 == Frequently Asked Questions ==
-
+= Not Yet =
 
 == Screenshots ==
 
@@ -58,3 +59,13 @@ Since this loads the necessary fonts and css for the Glyphicon / Dashicons you m
 == Changelog ==
 = 1.0 =
 * Initial release.
+
+== Upgrade Notice ==
+= 1.0 =
+Adding Dashicon
+
+== Arbitrary section ==
+Don't know what it is section
+
+== Donations ==
+None
