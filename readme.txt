@@ -57,3 +57,5 @@ Since this loads the necessary fonts and css for the Glyphicon / Dashicons you m
 == Changelog ==
 = 1.0 =
 * Initial release.
+* Twitter Bootstrap v3.1.1 Glyphicons
+* Wordpress Dashicons
