@@ -47,25 +47,13 @@ Since this loads the necessary fonts and css for the Glyphicon / Dashicons you m
 1. Activate the plugin through the 'Plugins' menu in WordPress.
 1. Go to the visual editor for any page or post and use the "RAphicon" dropdown button.
 
-== Frequently Asked Questions ==
-= Not Yet =
-
 == Screenshots ==
 
 1. New Visual Editor Button
 2. Icons Selection List
 3. Custom attribute
+4. Example Load on Frontpage / Single
 
 == Changelog ==
 = 1.0 =
 * Initial release.
-
-== Upgrade Notice ==
-= 1.0 =
-Adding Dashicon
-
-== Arbitrary section ==
-Don't know what it is section
-
-== Donations ==
-None
