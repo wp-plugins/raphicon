@@ -3,6 +3,6 @@
 /* Dashicons MCE */
 i.mce-i-icon{font: 400 20px/1 dashicons;padding: 0;vertical-align: top;speak: none;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;margin-left: -2px;padding-right: 2px}
 i.mce-i-glyphicon{position:relative;top:1px;display:inline-block;font-family:'Glyphicons Halflings';font-style:normal;font-weight:normal;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
-.dashicons.raphicon{height:auto;width:auto;}
+.dashicons.raphicon{height:auto;width:auto;display:inline-block;position:relative;top:1px;vertical-align:inherit;}
 .dashicons.raphicon:before{line-height:inherit;}
 .mce-window .mce-window-head{border-bottom:none !important;background-color:#FFF !important;}
