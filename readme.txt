@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== RAphicon ===
 Contributors: rahendz
 Donate link: http://example.com/
 Tags: icons, tinymce, ajax, bootstrap, twitter, twitter bootstrap, glyphicons, visual editor, dahsicons, wordpress
