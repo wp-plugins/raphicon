@@ -12,32 +12,32 @@ Bootstrap 3 Glpyhicon And Wordpress Dashicon Plugin
 
 == Description ==
 
-Is a Bootstrap 3.3.4 Glyphicon or Wordpress Dashicons icon library that allo you to insert it into post/page on a shortcode and customizable size and/or color.
+Is a Bootstrap 3.3.4 Glyphicon or Wordpress Dashicons icon library that allow you to insert it into post/page on a shortcode and customizable size and/or color.
 
-Instructions for use:
+**Instructions for use:**
 
-Method A (Visual Editor - Preferred):
-1. Edit/Add New any Page or Post
-2. In the visual editor you will see a "RAphicon" button. Click the button.
-3. You will now be presented with a selection window box.
-4. Simply select any icon and the shortcode will be placed into your post/page!
-
-
-Method B (Manual Shortcode, by type manually into your post):
-* For default glyphicon shortcode :
-`[glyphicon type="icon_name"]`
-* For default dashicons shortcode :
-`[dashicons type="icon_name"]`
-* And you could put size and color attribute also:
-`[glyphicon type="icon_name" size="size_with_units" color="color_with_hashtag"]`
-* it will looks like this:
-`[glyphicon type="asterisk" size="20em" color="#999999"]`
+A. RAphicon Button
+	1. Edit/Add New any Page or Post
+	2. In the visual editor you will see a "RAphicon" button. Click the button.
+	3. You will now be presented with a selection window box.
+	4. Simply select any icon and the shortcode will be placed into your post/page!
 
 
-Method C (Native Style):
-Since this loads the necessary fonts and css for the Glyphicon / Dashicons you may put them anywhere using the standardized code:
-`<span class="glyphicon glyphicon-icon_name"></span>` or
-`<span class="dashicons dashicons-icon_name"></span>`
+B. Manual Shortcode
+	* For default glyphicon shortcode :
+	`[glyphicon type="icon_name"]`
+	* For default dashicons shortcode :
+	`[dashicons type="icon_name"]`
+	* And you could put size and color attribute also:
+	`[glyphicon type="icon_name" size="size_with_units" color="color_with_hashtag"]`
+	* it will looks like this:
+	`[glyphicon type="asterisk" size="20em" color="#999999"]`
+
+
+C. Native Style (HTML Tag)
+	Since this loads the necessary fonts and css for the Glyphicon / Dashicons you may put them anywhere using the standardized code:
+	`<span class="glyphicon glyphicon-icon_name"></span>` or
+	`<span class="dashicons dashicons-icon_name"></span>`
 
 == Installation ==
 
@@ -53,11 +53,11 @@ Since this loads the necessary fonts and css for the Glyphicon / Dashicons you m
 4. Example Load on Frontpage / Single
 
 == Changelog ==
-= 2.1 =
+**2.1**
 * Twitter Bootstrap v3.3.4 Glyphicons
 * Replace dropdown with modal window
 
-= 1.0 =
+**1.0**
 * Initial release.
 * Twitter Bootstrap v3.1.1 Glyphicons
 * Wordpress Dashicons
