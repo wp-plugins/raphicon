@@ -4,7 +4,7 @@ Donate link: http://example.com/
 Tags: icons, tinymce, ajax, bootstrap, twitter, twitter bootstrap, glyphicons, visual editor, dahsicons, wordpress
 Requires at least: 3.0.1
 Tested up to: 4.1.1
-Stable tag: 1.0
+Stable tag: 2.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -12,7 +12,7 @@ Bootstrap 3 Glpyhicon And Wordpress Dashicon Plugin
 
 == Description ==
 
-Is a dropdown button on visual editor that will insert Bootstrap 3.1.1 Glyphicon or Wordpress Dashicons into post/page on a shortcode and customizable size and/or color.
+Is a dropdown button on visual editor that will insert Bootstrap 3.3.4 Glyphicon or Wordpress Dashicons into post/page on a shortcode and customizable size and/or color.
 
 Instructions for use:
 
@@ -56,6 +56,10 @@ Since this loads the necessary fonts and css for the Glyphicon / Dashicons you m
 4. Example Load on Frontpage / Single
 
 == Changelog ==
+= 2.1 =
+* Twitter Bootstrap v3.3.4 Glyphicons
+* Replace dropdown with modal window
+
 = 1.0 =
 * Initial release.
 * Twitter Bootstrap v3.1.1 Glyphicons
