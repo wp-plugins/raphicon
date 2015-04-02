@@ -27,25 +27,26 @@ Method A (Visual Editor - Preferred):
 4. Simply select any icon and the shortcode will be placed into your post/page! OR if you tired to scrolling down the dropdown menu you use Browser Find Feature (ctrl+F) instead, just find using "D" (for dashicons) or "G" (for glyphicon) right before the icon_name of icon. example: "D Admin-post" without quote.
 
 
-Method B (Manual Shortcode):
-Insert shortcode into your post.
-`[glyphicon type="icon_name"]` for default glyphicon shortcode and
-`[dashicons type="icon_name"]` for default dashicons shortcode
-You could put size and color attribute also:
+Method B (Manual Shortcode, by type manually into your post):
+For default glyphicon shortcode :
+`[glyphicon type="icon_name"]`
+For default dashicons shortcode :
+`[dashicons type="icon_name"]`
+And you could put size and color attribute also:
 `[glyphicon type="icon_name" size="size_with_units" color="color_with_hashtag"]`
 it will looks like this:
 `[glyphicon type="asterisk" size="20em" color="#999999"]`
 
 
- Method C (Manual into Theme):
+ Method C (Native Style):
 Since this loads the necessary fonts and css for the Glyphicon / Dashicons you may put them anywhere using the standardized code:
 `<span class="glyphicon glyphicon-icon_name"></span>` or `<span class="dashicons dashicons-icon_name"></span>`
 
 == Installation ==
 
 1. Upload contents of `raphicon.zip` to the `/wp-content/plugins/` directory.
-1. Activate the plugin through the 'Plugins' menu in WordPress.
-1. Go to the visual editor for any page or post and use the "RAphicon" dropdown button.
+2. Activate the plugin through the 'Plugins' menu in WordPress.
+3. Go to the visual editor for any page or post and use the "RAphicon" dropdown button.
 
 == Screenshots ==
 
