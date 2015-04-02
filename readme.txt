@@ -17,6 +17,7 @@ Is a Bootstrap 3.3.4 Glyphicon or Wordpress Dashicons icon library that allow yo
 **Instructions for use:**
 
 A. RAphicon Button
+
 1. Edit/Add New any Page or Post
 2. In the visual editor you will see a "RAphicon" button. Click the button.
 3. You will now be presented with a selection window box.
@@ -24,6 +25,7 @@ A. RAphicon Button
 
 
 B. Manual Shortcode
+
 * For default glyphicon shortcode :
 `[glyphicon type="icon_name"]`
 * For default dashicons shortcode :
@@ -35,6 +37,7 @@ B. Manual Shortcode
 
 
 C. Native Style (HTML Tag)
+
 Since this loads the necessary fonts and css for the Glyphicon / Dashicons you may put them anywhere using the standardized code:
 `<span class="glyphicon glyphicon-icon_name"></span>` or
 `<span class="dashicons dashicons-icon_name"></span>`
