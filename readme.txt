@@ -1,6 +1,6 @@
 === RAphicon ===
 Contributors: rahendz
-Donate link: http://example.com/
+Donate link: http://radictivemedia.net
 Tags: icons, tinymce, ajax, bootstrap, twitter, twitter bootstrap, glyphicons, visual editor, dahsicons, wordpress
 Requires at least: 3.0.1
 Tested up to: 4.1.1
