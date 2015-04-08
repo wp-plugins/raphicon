@@ -3,7 +3,7 @@
  * Plugin Name: RAphicon
  * Plugin URI: http://radictivemedia.net
  * Description: Bootstrap 3 Glpyhicon And Wordpress Dashicon Plugin - Is a dropdown button on visual editor that will insert Bootstrap 3.3.4 Glyphicon or Wordpress Dashicons into post/page on a shortcode and customizable size and/or color.
- * Version: 2.1
+ * Version: 2.1.1
  * Author: rahendz
  * Author URI: http://radictivemedia.net
  * License: GPL2
