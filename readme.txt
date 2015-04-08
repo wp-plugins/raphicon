@@ -1,10 +1,10 @@
 === RAphicon ===
 Contributors: rahendz
 Donate link: http://radictivemedia.net
-Tags: icons, tinymce, ajax, bootstrap, twitter, twitter bootstrap, glyphicons, visual editor, dahsicons, wordpress
+Tags: icon, tinymce, ajax, bootstrap, twitter, twitter bootstrap, glyphicon, visual editor, dahsicons, wordpress, icon font
 Requires at least: 3.0.1
 Tested up to: 4.1.1
-Stable tag: 2.1
+Stable tag: 2.1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
