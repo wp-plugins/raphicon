@@ -4,7 +4,7 @@ Donate link: http://radictivemedia.net
 Tags: icon, tinymce, ajax, bootstrap, twitter, twitter bootstrap, glyphicon, visual editor, dahsicons, wordpress, font
 Requires at least: 3.0.1
 Tested up to: 4.1.1
-Stable tag: 2.1.1
+Stable tag: 2.1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -64,8 +64,11 @@ Since this loads the necessary fonts and css for the Glyphicon / Dashicons you m
 4. Example Load on Frontpage / Single
 
 == Changelog ==
+**2.1.2**
+* Fix style
+
 **2.1.1**
-* Fixed 404 on Window Box
+* Fix error 404 on window box
 
 **2.1**
 * Twitter Bootstrap v3.3.4 Glyphicons
