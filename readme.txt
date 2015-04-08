@@ -64,6 +64,9 @@ Since this loads the necessary fonts and css for the Glyphicon / Dashicons you m
 4. Example Load on Frontpage / Single
 
 == Changelog ==
+**2.1.1**
+* Fix error 404 on window box
+
 **2.1**
 * Twitter Bootstrap v3.3.4 Glyphicons
 * Replace dropdown with modal window
